@@ -22,4 +22,4 @@ The EV team for this case, although more profitable in the long run, does not pa
 A very important note is that these algorithms do not have a team captain whose score is always 2x.
 
 # Important
-For more details check my blog post https://paulo-bernardo.medium.com/lets-analyze-the-data-of-brazilian-soccer-f5030c251010 
+For more details check my blog post https://paulo-bernardo.medium.com/how-to-win-in-the-cartola-8864f2e4e156
